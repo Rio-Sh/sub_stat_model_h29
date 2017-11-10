@@ -9,4 +9,4 @@ http://hosho.ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html
 データ解析統計モデリング２がひらけない場合は以下のサイトにページのURLをペーストして下さい.  
 https://nbviewer.jupyter.org
 
-後半のMCMCの計算に関してはBUGS(JAGS)で実装されていますが、Stanで書き直したファイルをあげる予定です。
+後半のMCMCの計算に関してはBUGS(JAGS)で実装されていますが、Stanで書き直したファイルをここにあげる予定です。

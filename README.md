@@ -11,5 +11,5 @@ https://nbviewer.jupyter.org
 
 後半のMCMCの計算に関してはBUGS(JAGS)で実装されていますが、Stanで書き直したファイルをここにあげる予定です。
 
-RよりPythonがやりたいみたいな意見もあったので以下のリンクも参照
+RよりPythonがやりたいみたいな意見もあったので以下のリンクも参照。ついでにStanでも書いてるみたいです。　　
 https://qiita.com/tackey/items/96171be393912fb333b3

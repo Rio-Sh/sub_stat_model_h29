@@ -10,7 +10,7 @@ http://hosho.ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html
 https://nbviewer.jupyter.org
 
 後半のMCMCの計算に関してはBUGS(JAGS)で実装されていますが、Stanで書き直したファイルをここにあげる予定です。
-Stanに関しては以下の本を参考にしてます。あとブログとか色々　　
+Stanに関しては以下の本を参考にしてます。あとブログとか色々　　　　
 「RとStanでベイズ統計モデリング」（松浦健太郎　共立出版社）
 
 RよりPythonがやりたいみたいな意見もあったのでこの本に関しては以下のリンクを参照。ついでにStanでも書いてるみたいです。　　

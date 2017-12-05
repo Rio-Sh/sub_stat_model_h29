@@ -9,7 +9,8 @@ http://hosho.ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html
 データ解析統計モデリング２がひらけない場合は以下のサイトにページのURLをペーストして下さい.  
 https://nbviewer.jupyter.org
 
-後半のMCMCの計算に関してはBUGS(JAGS)で実装されていますが、Stanで書き直したファイルをここにあげる予定です。
+
+後半のMCMCの計算に関してはBUGS(JAGS)で実装されていますが、Stanで書き直したファイルをここにあげる予定です。  
 Stanに関しては以下の本を参考にしてます。あとブログとか色々。  　
 「RとStanでベイズ統計モデリング」（松浦健太郎　共立出版社）
 
